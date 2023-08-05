@@ -15,14 +15,17 @@ I worked as a Graduate Research Assistant under Dr. Sarah Young aiding in her re
 
 ```
 - readme.md
-- scripts
+- projects
 ---- readme.md
+---- 
 ---- 
 - data
 ---- readme.md
 ---- 
+---- 
 - documents
 ---- readme.md
+---- 
 ---- 
 ```
 
