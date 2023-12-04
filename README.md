@@ -11,43 +11,7 @@ I worked as a Graduate Research Assistant under Dr. Sarah Young aiding in her re
 * Google, Zotero, Teams, Word, Powerpoint  
 * Python, R, Excel  
 
-## Folder structure
-
-```
-- readme.md
-- projects
----- readme.md
----- 
----- 
-- data
----- readme.md
----- 
----- 
-- documents
----- readme.md
----- 
----- 
-```
-
 ## Publications
 
-* None yet but working hard to be under review by December 2023!     
-   
-
-## Data sources
-
-* TBD     
-* TBD     
-* TBD     
-
-## Found Literature
-
-* TBD     
-* TBD     
-* TBD     
-
-## Questions
-
-* TBD     
-* TBD     
-* TBD     
+* Faculty Awareness Project (Under Development)
+* Breaking the Cycle (Accepted InsideHigherEd)
